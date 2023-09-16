@@ -1,6 +1,4 @@
-# Parking
 
-Aquí tienes un archivo README.md para tu proyecto de gestión de estacionamiento:
 
 ```markdown
 # Gestión de Estacionamiento - API Node.js
